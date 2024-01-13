@@ -1,23 +1,21 @@
-.current {
-  color: green; }
+.current { color: green; }
 
-li {
-  list-style: none; }
+li { list-style: none; }
 
-.app_list img {
-  width: 100px;
-  height: 100px; }
+.app_list img { width: 100px; height: 100px; }
 
-.app_store_link_box {
-  width: 170px; }
-  .app_store_link_box img.apple_store {
-    width: 150px;
-    margin: 8px; }
-  .app_store_link_box img.google_store {
-    width: 165px; }
+.app_store_link_box { width: 170px; }
 
-.diagonal_pdf_viewer_demo img.iphone_demo, .diagonal_pdf_viewer_demo img.android_demo {
-  width: 300px; }
+.app_store_link_box img.apple_store { width: 150px; margin: 8px; }
 
-.fruits_tap_explain {
-  width: 400px; }
+.app_store_link_box img.google_store { width: 165px; }
+
+.diagonal_pdf_viewer_demo img.iphone_demo, .diagonal_pdf_viewer_demo img.android_demo { width: 300px; }
+
+.fruits_tap_explain { width: 400px; }
+
+.fruits_tap_ios_link { margin: 10px; }
+
+.fruits_tap_google_link { width: 160px; }
+
+/*# sourceMappingURL=styles.css.map */
